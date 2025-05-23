@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "a@x.com",
+      "pw": "123",
+      "name": "Alice",
+      "xp": 0,
+      "nextRankThreshold": 100,
+      "badges": [],
+      "xp_today": 0,
+      "xp_month": 0
+    },
+    {
+      "email": "aiman.abed@mail.con",
+      "pw": "1234",
+      "name": "aimanabed",
+      "xp": 0,
+      "nextRankThreshold": 100,
+      "badges": [],
+      "rank": "Bronze",
+      "xp_today": 0,
+      "xp_month": 0
+    },
+    {
+      "email": "kha@gmail.com",
+      "pw": "dsad",
+      "name": "ahmad",
+      "xp": 0,
+      "nextRankThreshold": 100,
+      "badges": [],
+      "rank": "Bronze",
+      "cv": null,
+      "job_desc": "",
+      "linkedin": "",
+      "xp_today": 0,
+      "xp_month": 0
+    }
+  ]
+}

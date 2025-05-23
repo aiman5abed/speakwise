@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1,
+    "title": "Prompt #1 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 2,
+    "title": "Prompt #2 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 3,
+    "title": "Prompt #3 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 4,
+    "title": "Prompt #4 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 5,
+    "title": "Prompt #5 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 6,
+    "title": "Prompt #6 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 7,
+    "title": "Prompt #7 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 8,
+    "title": "Prompt #8 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 9,
+    "title": "Prompt #9 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 10,
+    "title": "Prompt #10 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 11,
+    "title": "Prompt #11 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 12,
+    "title": "Prompt #12 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 13,
+    "title": "Prompt #13 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 14,
+    "title": "Prompt #14 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 15,
+    "title": "Prompt #15 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 16,
+    "title": "Prompt #16 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 17,
+    "title": "Prompt #17 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 18,
+    "title": "Prompt #18 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 19,
+    "title": "Prompt #19 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 20,
+    "title": "Prompt #20 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 21,
+    "title": "Prompt #21 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 22,
+    "title": "Prompt #22 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 23,
+    "title": "Prompt #23 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 24,
+    "title": "Prompt #24 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 25,
+    "title": "Prompt #25 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 26,
+    "title": "Prompt #26 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 27,
+    "title": "Prompt #27 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 28,
+    "title": "Prompt #28 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 29,
+    "title": "Prompt #29 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 30,
+    "title": "Prompt #30 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 31,
+    "title": "Prompt #31 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 32,
+    "title": "Prompt #32 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 33,
+    "title": "Prompt #33 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 34,
+    "title": "Prompt #34 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 35,
+    "title": "Prompt #35 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 36,
+    "title": "Prompt #36 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 37,
+    "title": "Prompt #37 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 38,
+    "title": "Prompt #38 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 39,
+    "title": "Prompt #39 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 40,
+    "title": "Prompt #40 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 41,
+    "title": "Prompt #41 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 42,
+    "title": "Prompt #42 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 43,
+    "title": "Prompt #43 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 44,
+    "title": "Prompt #44 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 45,
+    "title": "Prompt #45 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 46,
+    "title": "Prompt #46 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 47,
+    "title": "Prompt #47 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 48,
+    "title": "Prompt #48 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 49,
+    "title": "Prompt #49 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 50,
+    "title": "Prompt #50 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 51,
+    "title": "Prompt #51 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 52,
+    "title": "Prompt #52 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 53,
+    "title": "Prompt #53 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 54,
+    "title": "Prompt #54 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 55,
+    "title": "Prompt #55 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 56,
+    "title": "Prompt #56 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 57,
+    "title": "Prompt #57 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 58,
+    "title": "Prompt #58 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 59,
+    "title": "Prompt #59 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 60,
+    "title": "Prompt #60 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 61,
+    "title": "Prompt #61 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 62,
+    "title": "Prompt #62 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 63,
+    "title": "Prompt #63 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 64,
+    "title": "Prompt #64 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 65,
+    "title": "Prompt #65 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 66,
+    "title": "Prompt #66 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 67,
+    "title": "Prompt #67 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 68,
+    "title": "Prompt #68 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 69,
+    "title": "Prompt #69 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 70,
+    "title": "Prompt #70 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 71,
+    "title": "Prompt #71 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 72,
+    "title": "Prompt #72 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 73,
+    "title": "Prompt #73 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 74,
+    "title": "Prompt #74 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 75,
+    "title": "Prompt #75 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 76,
+    "title": "Prompt #76 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 77,
+    "title": "Prompt #77 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 78,
+    "title": "Prompt #78 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 79,
+    "title": "Prompt #79 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 80,
+    "title": "Prompt #80 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 81,
+    "title": "Prompt #81 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 82,
+    "title": "Prompt #82 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 83,
+    "title": "Prompt #83 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 84,
+    "title": "Prompt #84 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 85,
+    "title": "Prompt #85 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 86,
+    "title": "Prompt #86 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 87,
+    "title": "Prompt #87 - Teamwork Scenario",
+    "description": "Describe a group project and how you contributed to its success.",
+    "category": "teamwork_scenario",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Highlight role, collaboration, and outcomes.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 88,
+    "title": "Prompt #88 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 89,
+    "title": "Prompt #89 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 90,
+    "title": "Prompt #90 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 91,
+    "title": "Prompt #91 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 92,
+    "title": "Prompt #92 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 93,
+    "title": "Prompt #93 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 94,
+    "title": "Prompt #94 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 95,
+    "title": "Prompt #95 - Tech Presentation",
+    "description": "Explain a complex technical concept to a non-technical audience.",
+    "category": "tech_presentation",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Prioritize clarity and analogies that aid understanding.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 96,
+    "title": "Prompt #96 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 97,
+    "title": "Prompt #97 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 98,
+    "title": "Prompt #98 - Interview",
+    "description": "Describe a time you faced a difficult challenge in your career.",
+    "category": "interview",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Encourage honesty and thoughtful reflection. Look for insights and learning.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 99,
+    "title": "Prompt #99 - Startup Story",
+    "description": "Tell the story of how your idea evolved into a project or prototype.",
+    "category": "startup_story",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Emphasize evolution, motivation, and iteration.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  },
+  {
+    "id": 100,
+    "title": "Prompt #100 - Product Pitch",
+    "description": "Pitch a product you believe will change the industry.",
+    "category": "product_pitch",
+    "type": "open-ended",
+    "rubric": {
+      "clarity": "0\u20135",
+      "depth": "0\u20135",
+      "structure": "0\u20135"
+    },
+    "ai_feedback_guide": "Focus on market need, uniqueness, and delivery.",
+    "xp_reward": {
+      "submission": 5,
+      "duel_win": 20,
+      "duel_loss": -5,
+      "consistency_bonus": 10
+    }
+  }
+]
