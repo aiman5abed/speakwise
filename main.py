@@ -22,18 +22,34 @@ BADGE_ICONS = {
 }
 
 # --- PAGE CONFIG & CUSTOM STYLING ---
+# st.set_page_config(page_title="SpeakWise", page_icon="🎤", layout="centered")
+# st.markdown("""
+# <style>
+# .reportview-container, .main { background-color: white; }
+# .sidebar .sidebar-content { background-color: #4f826f; color: white; }
+# h1, h2, h3, .stHeader { color: #4f826f; }
+# button { background-color: #7aac9a !important; color: white !important; }
+# .stProgress > div > div { background-color: #7aac9a; }
+# a { color: #4f826f; }
+# </style>
+# """, unsafe_allow_html=True)
 st.set_page_config(page_title="SpeakWise", page_icon="🎤", layout="centered")
 st.markdown("""
 <style>
-.reportview-container, .main { background-color: white; }
-.sidebar .sidebar-content { background-color: #4f826f; color: white; }
-h1, h2, h3, .stHeader { color: #4f826f; }
-button { background-color: #7aac9a !important; color: white !important; }
-.stProgress > div > div { background-color: #7aac9a; }
-a { color: #4f826f; }
+  .reportview-container, .main { background-color: white; }
+  .sidebar .sidebar-content { background-color: #4f826f; color: white; }
+  h1, h2, h3, .stHeader { color: #4f826f; }
+  button { background-color: #7aac9a !important; color: white !important; }
+  .stProgress > div > div { background-color: #7aac9a; }
+  a { color: #4f826f; }
 </style>
 """, unsafe_allow_html=True)
 
+# display your logo in the sidebar (top‐left)
+st.sidebar.image("logo hack cs.png", width=170)
+
+# then your sidebar title
+st.sidebar.title("SpeakWise")
 # --- CONFIGURATION ---
 GENIE_KEY = os.getenv("GENIE_KEY", "AIzaSyD4CpBQFyNEcmMnn67Efu0Ql27Pv5Y41e4")
 aai.settings.api_key = os.getenv("AIAAI_KEY", "7b1c719070dc47209812dbc3e6a0bfc4")
